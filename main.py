@@ -244,7 +244,7 @@ if __name__ == '__main__':
     #===========================================================================   
      
     plt.plot(ts.P_pi,color='blue')
-    plt.xlabel(r'迭代步数$i$')
+    plt.xlabel(r'迭代的步数$i$')
     plt.ylabel(r'${\rm{P}}\left( {{\pi _i}} \right)$')    
     plt.show()
 
